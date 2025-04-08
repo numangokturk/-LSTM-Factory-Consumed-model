@@ -9,3 +9,4 @@ Four distinct LSTM (Long Short-Term Memory) models were trained to predict energ
 
 Objective and Contribution
 The study seeks to enhance operational efficiency and optimize energy management through accurate energy consumption forecasting. By sharing these models and analyses on GitHub, the goal is to inspire and guide researchers and professionals working on similar projects. # -LSTM-Factory-Consumed-model
+DATASET= https://www.kaggle.com/datasets/csafrit2/steel-industry-energy-consumption
